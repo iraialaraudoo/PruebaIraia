@@ -1,0 +1,5 @@
+print("Script de ejmeplo")
+print("Segunda linea")
+print("Tercera linea")
+print("cuarta linea")
+print()
